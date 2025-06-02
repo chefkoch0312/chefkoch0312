@@ -8,6 +8,7 @@ Hier auf GitHub dokumentiere ich meine aktuellen Projekte – pragmatisch, techn
 - [`kado-ber.de`](https://github.com/chefkoch0312/kado-ber.de) – Relaunch meiner persönlichen Website mit React
 - [`kundari`](https://github.com/chefkoch0312/kundari) – Leichtgewichtiges CRM für klassische Webspace-Umgebungen
 - [`kundari_api`](https://github.com/chefkoch0312/kundari_api) – PHP-Backend für das Kundari-Frontend
+- [`cgol`](https://github.com/chefkoch0312/cgol) – Conway's Game of Life
 - `rpg_dice`, `clicker_clone`, `shiritori` – folgen bald
 
 ## 📌 Ziel
