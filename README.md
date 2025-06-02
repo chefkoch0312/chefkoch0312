@@ -9,6 +9,7 @@ Hier auf GitHub dokumentiere ich meine aktuellen Projekte – pragmatisch, techn
 - [`kundari`](https://github.com/chefkoch0312/kundari) – Leichtgewichtiges CRM für klassische Webspace-Umgebungen
 - [`kundari_api`](https://github.com/chefkoch0312/kundari_api) – PHP-Backend für das Kundari-Frontend
 - [`cgol`](https://github.com/chefkoch0312/cgol) – Conway's Game of Life
+- [`weather_dashboard`](https://github.com/chefkoch0312/weather_dashboard) – Drei technologische Ansätze für ein gemeinsames Ziel: ein Wetter-Dashboard in Python (Tkinter), JavaScript und React+TS
 - `rpg_dice`, `clicker_clone`, `shiritori` – folgen bald
 
 ## 📌 Ziel
