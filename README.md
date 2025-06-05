@@ -6,7 +6,7 @@ Hier auf GitHub dokumentiere ich meine aktuellen Projekte – pragmatisch, techn
 ## 🚀 Aktuelle Projekte
 
 - [`kado-ber.de`](https://github.com/chefkoch0312/kado-ber.de) – Relaunch meiner persönlichen Website mit React
-- [`gallery.kado-ber.de`](https://gallery.kado-ber.de) - Eine stilvolle, reaktionsschnelle Galerie für AI-generierte Bilder – mit Filterung, Pagination und Kontaktmöglichkeit.
+- [`gallery.kado-ber.de`](https://github.com/chefkoch0312/gallery.kado-ber.de) - Eine stilvolle, reaktionsschnelle Galerie für AI-generierte Bilder – mit Filterung, Pagination und Kontaktmöglichkeit.
 - [`kundari`](https://github.com/chefkoch0312/kundari) – Leichtgewichtiges CRM für klassische Webspace-Umgebungen
 - [`kundari_api`](https://github.com/chefkoch0312/kundari_api) – PHP-Backend für das Kundari-Frontend
 - [`cgol`](https://github.com/chefkoch0312/cgol) – Conway's Game of Life
