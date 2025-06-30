@@ -14,7 +14,7 @@ Hier auf GitHub dokumentiere ich meine aktuellen Projekte – pragmatisch, techn
 - [`codekeeper`](https://github.com/chefkoch0312/codekeeper) – Ein Python-basiertes Entwicklungs-, Sicherungs- und Deployment Tool zum Verwalten von Projekt-Workflows zwischen Entwicklungs-, Sicherungs- und Laufzeitumgebungen.
 - [`Clipboard-Tracker`](https://github.com/chefkoch0312/clipboard-tracker) - Ein lokal funktionierender Zwischenablage-Tracker im Browser mit Historie, Zeitstempeln, Export/Import und Dark Mode (ganz ohne Backend)
 - [`readme-generator`](https://github.com/chefkoch0312/readme_generator) - Ein einfaches Tool zum Erstellen von README-Dateien für GitHub-Projekte.
-- `rpg_dice`, `clicker_clone`, `shiritori` – folgen bald
+<!-- - `rpg_dice`, `clicker_clone`, `shiritori` – folgen bald -->
 
 ## 📌 Ziel
 
