@@ -9,11 +9,12 @@ Hier auf GitHub dokumentiere ich meine aktuellen Projekte – pragmatisch, techn
 - [`gallery.kado-ber.de`](https://github.com/chefkoch0312/gallery.kado-ber.de) - Eine stilvolle, reaktionsschnelle Galerie für AI-generierte Bilder – mit Filterung, Pagination und Kontaktmöglichkeit.
 - [`kundari`](https://github.com/chefkoch0312/kundari) – Leichtgewichtiges CRM für klassische Webspace-Umgebungen
 - [`kundari_api`](https://github.com/chefkoch0312/kundari_api) – PHP-Backend für das Kundari-Frontend
-- [`cgol`](https://github.com/chefkoch0312/cgol) – Conway's Game of Life
-- [`weather_dashboard`](https://github.com/chefkoch0312/weather_dashboard) – Drei technologische Ansätze für ein gemeinsames Ziel: ein Wetter-Dashboard in Python (Tkinter), JavaScript und React+TS
+- [`Pomodore-Timer`](https://github.com/chefkoch0312/pomodoro-timer) – Yet another Pomodoro Timer, but this one's mine! 
 - [`codekeeper`](https://github.com/chefkoch0312/codekeeper) – Ein Python-basiertes Entwicklungs-, Sicherungs- und Deployment Tool zum Verwalten von Projekt-Workflows zwischen Entwicklungs-, Sicherungs- und Laufzeitumgebungen.
 - [`Clipboard-Tracker`](https://github.com/chefkoch0312/clipboard-tracker) - Ein lokal funktionierender Zwischenablage-Tracker im Browser mit Historie, Zeitstempeln, Export/Import und Dark Mode (ganz ohne Backend)
 - [`readme-generator`](https://github.com/chefkoch0312/readme_generator) - Ein einfaches Tool zum Erstellen von README-Dateien für GitHub-Projekte.
+<!-- - [`cgol`](https://github.com/chefkoch0312/cgol) – Conway's Game of Life -->
+<!-- - [`weather_dashboard`](https://github.com/chefkoch0312/weather_dashboard) – Drei technologische Ansätze für ein gemeinsames Ziel: ein Wetter-Dashboard in Python (Tkinter), JavaScript und React+TS -->
 <!-- - `rpg_dice`, `clicker_clone`, `shiritori` – folgen bald -->
 
 ## 📌 Ziel
